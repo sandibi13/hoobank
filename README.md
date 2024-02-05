@@ -1,15 +1,15 @@
 # Hoobank
 
-![image](https://github.com/sandipan500/landing_page/assets/104856187/232ac229-7c72-4d8c-b46e-7aeb114bb4c0)
+![image](https://github.com/james00s/landing_page/assets/104856187/232ac229-7c72-4d8c-b46e-7aeb114bb4c0)
 
 A simple React landing page with vibrant UI/UX.
 
-[Live Demo](https://hoobank-gz24b5bku-sandipan500.vercel.app/) :point_left:
+[Live Demo](https://hoobank-dun-theta.vercel.app/) :point_left:
 
 ## Getting started
 
 ```
-git clone https://github.com/sandipan500/hoobank.git
+git clone https://github.com/james00s/hoobank.git
 cd hoobank
 npm install
 npm run dev
